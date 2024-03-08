@@ -15,4 +15,12 @@ nav ul {
   padding: 0;
   display: flex;
   gap: 2rem;
-  
+}
+
+.btn {
+  padding: 1rem 2rem;
+  background: #cfa9cd;
+  border-radius: 12px;
+  text-decoration: none;
+  color: #000;
+}
