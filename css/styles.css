@@ -27,6 +27,7 @@ nav ul {
 .btn {
   padding: 1rem 2rem;
   background-color: #cfa9cd;
+  background-image: url("../images/dsc06156_3-1.svg")
   border-radius: 12px;
   text-decoration: none;
   color: #000;
@@ -40,6 +41,5 @@ header .btn {
   h1
   font-family: "DM Karma";
   font-weight: bold;
-h1 {
   font size: 100px;
   
