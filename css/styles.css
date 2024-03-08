@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap');
 
 nav {
   background: white; 
@@ -6,6 +7,12 @@ nav {
   align-items: center;
   padding: 1rem 2rem;
 }
+
+nav ul li a {
+text-decoration: none;
+  font-size: 20px;
+  color: #000;
+  font-weight: 300;
 nav .logo img {
   width: 80px;
 }
@@ -24,3 +31,12 @@ nav ul {
   text-decoration: none;
   color: #000;
 }
+
+header {
+  padding: 12rem 2rem;
+  text-align: center;
+}
+
+h1 {
+  font size: 100px;
+  
