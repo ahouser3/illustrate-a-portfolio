@@ -43,14 +43,14 @@ header .btn {
   text-align: center;
 }
 
-  h1,
+  header {
   font-family: "DM Karma";
   font-weight: bold;
   font size: 100px;
   }
-@media screen and (max-width: 900px) {
-h1 {
-  font-size: 50px;
+@media screen and (max-width: 1024px) {
+header {
+  padding: 7.2rem 2rem;
 }
 }
   section {
@@ -68,6 +68,5 @@ h1 {
   }
   
 
-  h2,
   
   
