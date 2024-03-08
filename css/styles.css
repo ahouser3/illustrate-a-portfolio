@@ -26,13 +26,13 @@ nav ul {
 
 .btn {
   padding: 1rem 2rem;
-  background: #cfa9cd;
+  background-color: #cfa9cd;
   border-radius: 12px;
   text-decoration: none;
   color: #000;
 }
 
-header {
+header .btn {
   padding: 12rem 2rem;
   text-align: center;
 }
